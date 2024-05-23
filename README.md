@@ -44,8 +44,3 @@ Before starting this course, you should have a basic understanding of Git and ve
 
 If you encounter any issues or have any feedback regarding the course materials, feel free to open an issue in this repository or reach out to the course instructors. Your feedback is valuable and will help us improve the course for future learners.
 
-## Conclusion
-
-By the end of this course, you'll have a solid understanding of Git and GitHub, enabling you to efficiently manage your projects, collaborate with others, and contribute to the open-source community. We're excited to have you on this journey to GitHub mastery!
-
-Happy coding!
